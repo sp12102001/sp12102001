@@ -7,7 +7,7 @@ I'm a passionate researcher and developer with a strong interest in leveraging t
 - 🔭 I'm working on projects that involve natural language processing, machine learning, and data extraction.
 - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 - 👯 I'm looking to collaborate on innovative projects that make a positive impact.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or drop me a message here.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/) or drop me a message here.
 - 🆔 ORCID: [0000-0003-4840-7371](https://orcid.org/0000-0003-4840-7371)
 
 ## Featured Projects
