@@ -23,6 +23,11 @@ The Systematic-Synthesizer is an application that aims to automate the systemati
 The Tax Questions Bot is a web-based tool designed to help individuals in Singapore determine their tax-related queries. It provides answers to common questions related to income tax, tax deductions, filing procedures, and more. The bot aims to make tax information more accessible and easier to understand for the general public.
 (https://github.com/sp12102001/Tax-Questions-Bot/raw/main/preview.png)
 
+### [Inventory-Management-System](https://github.com/sp12102001/inventory-management-system)
+The Inventory Management System is a web-based prototype designed to help track suppliers and order items, to manage stock, supply required and existing capacity. Can be modified for use as a generic CMS, and run via Codepen/Codesandbox/ any other frontend hosting platforms or easily integrated into backend database systems (Supabase, Firebase , etc)
+
+
+
 
 ## Skills
 
