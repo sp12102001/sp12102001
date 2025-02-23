@@ -12,22 +12,21 @@ I'm a passionate researcher and developer with a strong interest in leveraging t
 
 ## Featured Projects
 
+
 ### [Systematic-Synthesizer](https://github.com/sp12102001/Systematic-Synthesizer)
 
 The Systematic-Synthesizer is an application that aims to automate the systematic review process. It leverages natural language processing (NLP), machine learning (ML), and data extraction techniques to streamline research design, literature search, and data synthesis. The goal is to make the systematic review process more efficient and less time-consuming for researchers.
 
 (https://github.com/sp12102001/Systematic-Synthesizer/raw/main/systematic-synthesizer.gif)
 
+
+### [Green Digital Health Tool](https://shaderesearch.netlify.app)
+A Digital Health Planning system developed for King's College London SHADE Research Hub, a programme that seeks to intersect of Sustainability, Health, AI, Digital technologies and the Environment. 
+
 ### [Tax-Questions-Bot](https://github.com/sp12102001/Tax-Questions-Bot)
 
 The Tax Questions Bot is a web-based tool designed to help individuals in Singapore determine their tax-related queries. It provides answers to common questions related to income tax, tax deductions, filing procedures, and more. The bot aims to make tax information more accessible and easier to understand for the general public.
 (https://github.com/sp12102001/Tax-Questions-Bot/raw/main/preview.png)
-
-### [Inventory-Management-System](https://github.com/sp12102001/inventory-management-system)
-The Inventory Management System is a web-based prototype designed to help track suppliers and order items, to manage stock, supply required and existing capacity. Can be modified for use as a generic CMS, and run via Codepen/Codesandbox/ any other frontend hosting platforms or easily integrated into backend database systems (Supabase, Firebase , etc)
-
-
-
 
 ## Skills
 
